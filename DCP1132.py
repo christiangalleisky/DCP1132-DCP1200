@@ -1,3 +1,8 @@
+def test():
+    str_list = ['B', 'l', 'a', 'k', 'e']
+    for i in range (len(str_list)):
+        print(str(i))
+
 def rotate(iters, lst):
 
     i = 0
